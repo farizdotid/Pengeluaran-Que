@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pengeluaran Que</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="harga">Harga</string>
+    <string name="simpan">Simpan</string>
+
+    <string name="error_message_form_empty">Form tidak boleh kosong</string>
+    <string name="total_pengeluaran_bulan_ini">Total Pengeluaran Bulan ini :</string>
+    <string name="hapus_semua">Hapus Semua</string>
+    <string name="hapus">Hapus</string>
+    <string name="edit">Edit</string>
+</resources>
