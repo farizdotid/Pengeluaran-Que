@@ -18,6 +18,7 @@ public class AddDataActivity extends AppCompatActivity {
     private static String KEY_IS_EDIT = "key_is_edit";
     private static String KEY_DATA = "key_data";
 
+    // Untuk kebutuhan data yang akan dipakai pada Activitu AddData
     public static void startActivity(Context context, boolean isEdit, Pengeluaran pengeluaran) {
         Intent intent = new Intent(new Intent(context, AddDataActivity.class));
         intent.putExtra(KEY_IS_EDIT, isEdit);
